@@ -33,6 +33,6 @@ nav ul{
   
   color: green;
   border: 1px solid teal;
-  height: 39px;
-  border-right: 0px;
+  height: 40px;
+  border-left: 0px;
 }
