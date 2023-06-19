@@ -2,3 +2,26 @@ nav{
   display: flex;
   justify-content: space-between;
 }
+.nav h1{
+  color: forestgreen;
+  margin: 0;
+  font-size: 40px;
+
+}
+
+nav ul{
+  display: inline-flex;
+  list-style-type: nome;
+  margin: 0;
+}
+.nav li{
+  padding-left: 15px;
+  padding-top: 15px;
+}
+.nav li a{
+  text-decoration: nome;
+  color: green;
+}
+.nav input{
+  flex: 1;
+}
