@@ -32,7 +32,7 @@ nav ul{
 .nav.nav-search input{
   flex: 1;
   color: green;
-  border: 1px solid teal;
+  border: 1px solid green;
   height: 35px;
   border-right: 0px;
 }
