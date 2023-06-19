@@ -22,6 +22,17 @@ nav ul{
   text-decoration: nome;
   color: green;
 }
-.nav input{
+.nav.nav-search input{
   flex: 1;
+  color: green;
+  border: 1px solid teal;
+  height: 35px;
+  border-right: 0px;
+}
+.nav.nav-search button{
+  
+  color: green;
+  border: 1px solid teal;
+  height: 39px;
+  border-right: 0px;
 }
